@@ -1,0 +1,28 @@
+name: Andrew Garner
+favicon: null
+layout_spectrum: 0.3322986802086234
+typography_spectrum: 0.2271044619847089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6423492669127882
+  lightness: 0.6193364050704986
+  saturation: 0.583572858478874
+  rhythmicContrast: 0.9805310540832579
+purpose: []
